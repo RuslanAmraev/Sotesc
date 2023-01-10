@@ -1,0 +1,18 @@
+.contactButton{
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.contactButton-img{
+    height: 40px;
+    width: 40px;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    user-select: none;
+    -webkit-user-drag: none;
+}
