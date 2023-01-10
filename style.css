@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Roboto-Regular";
+}
+  
+.hover-underline-animation::after {
+content: '';
+position: absolute;
+width: 100%;
+transform: scaleX(0);
+height: 3px;
+bottom: 0;
+left: 0;
+background-color: #ffffff;
+transform-origin: center right left;
+transition: transform 0.5s ease-out;
+}
+  
+.hover-underline-animation:hover::after {
+transform: scaleX(1);
+transform-origin: center right left;
+}
+
+.main{
+    padding: 30px 20%;
+}
+
+.img-mac{
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+}
+
+.title-sign{
+    -webkit-clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
+    clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
+    background-color: #374151;
+    display: flex;
+    color: #fff;
+    width: 200px;
+    padding: 10px 50px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+@font-face {
+    font-family: "Roboto-Regular"; 
+    src: url("./Fonts/Roboto-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+/* the slides */
+.slick-slide {
+margin: 0 27px;
+}
+
+/* the parent */
+.slick-list {
+    margin: 0 -27px;
+}
+
+.slider-wrap{
+    width: 60%;
+    margin: 0 auto;
+}
+
+@media (max-width: 1450px) { 
+    .header-text{
+        display: none;
+    }
+ }
+
+ @media (max-width:  1025px) { 
+    .w-3/5{
+        width: 90%;
+    }
+ }
+
