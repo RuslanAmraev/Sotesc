@@ -14,7 +14,7 @@
     <main class="w-3/5 mx-auto mt-2 font-medium">
         <!-- bredcrumb -->
         <div class="flex border-b-2 border-gray-700">
-            <a class="mr-2" href="./Index.html">Главная</a>
+            <a class="mr-2 hover:text-[#0369A1]" href="./Index.php">Главная</a>
             <p class="mr-2">/</p>
             <h3>Обучение</h3>
         </div>

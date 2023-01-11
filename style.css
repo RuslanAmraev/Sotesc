@@ -25,7 +25,12 @@ transform-origin: center right left;
 }
 
 .main{
-    padding: 30px 20%;
+    padding: 30px 8px;
+    margin: 0 auto;
+}
+
+.global-width{
+    max-width: 1150px;
 }
 
 .img-mac{
@@ -42,7 +47,7 @@ transform-origin: center right left;
     color: #fff;
     width: 200px;
     padding: 10px 50px;
-    margin: 40px 0;
+    margin: 40px 0 20px 0;
     font-weight: bold;
     line-height: 20px;
     text-align: center;
@@ -67,39 +72,126 @@ margin: 0 27px;
 }
 
 .slider-wrap{
-    width: 60%;
+    width: 90%;
     margin: 0 auto;
 }
 
 .sub-nav{
+    display: none;
     position: absolute;
     top: 100%;
     left: 0;
     width: 100%;
     text-overflow: ellipsis;
-    overflow: hidden; 
+    overflow: hidden;
+    z-index: 10;
+}
+
+.nav-expand:hover .sub-nav{
+    display: block;
+}
+
+.sub-nav:hover{
+    display: block;
+}
+
+.service-list{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    position: relative;
 }
 
 .service-list > ul{
-    width: 40%;
+    max-width: 500px;
+    overflow: hidden;
+    margin: 0 auto;
 }
 
-.service-list li{
+.service-list a{
     margin-bottom: 5px;
     cursor: pointer;
+    display: block;
+    color: #0369A1;
 }
 
-.service-list li:hover{
-    color: #0369A1;
+.service-list a:hover{
     text-decoration: underline;
 }
 
-@media (max-width: 1450px) { 
+.service-list a::before{
+    content: "•";
+    margin-right: 5px;
+}
+
+.header-text{
+    font-size: 20px;
+}
+
+ @media (max-width: 890px) { 
     .header-text{
-        display: none;
+        font-size: .7rem !important;
     }
  }
 
  @media (max-width:  1025px) { 
  }
 
+ @media (max-width: 770px){
+    .nav a{
+        font-size: 14px;
+    }
+ }
+ 
+@media (max-width: 710px){
+    .nav{
+       flex-direction: column;
+       width: 80%;
+    }
+
+    .nav-el{
+        margin: 5px auto;
+        display: block;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid rgb(255, 255, 255);
+        border-top: 1px solid rgb(255, 255, 255);
+    }
+    
+    .nav-expand{
+        width: 100% !important;
+        border: none;
+        margin: 5px auto;
+        display: block;
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid rgb(255, 255, 255);
+        border-top: 1px solid rgb(255, 255, 255);
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav-expand a{
+        margin: 0 auto;
+    }
+
+    .nav-expand-arrow{
+        margin-left: auto;
+    }
+ }
+
+ @media (max-width:  1025px) {
+    .service-list{
+        margin: 0 !important;
+    }
+    .service-list>ul{
+        min-width: 100% !important;
+        text-align: center;
+    }
+    .service-list>ul a{
+        margin: 10px 0 !important;
+        text-decoration: underline;
+    }
+
+}
+
+ 
