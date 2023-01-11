@@ -11,9 +11,9 @@
 </head>
 <body>
 <?php include './Header.html' ?>
-    <main class="w-3/5 mx-auto mt-2 font-medium">
+    <main class="global-width px-2 mx-auto mt-2 font-medium">
         <!-- bredcrumb -->
-        <div class="flex border-b-2 border-gray-700">
+        <div class="bredcrumb flex border-b-2 border-gray-700">
             <a class="mr-2 hover:text-[#0369A1]" href="./Index.php">Главная</a>
             <p class="mr-2">/</p>
             <h3>Обучение</h3>

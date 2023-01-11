@@ -127,11 +127,33 @@ margin: 0 27px;
     font-size: 20px;
 }
 
- @media (max-width: 890px) { 
+.map-wrap{
+    width: 500px;
+    height: 200px;
+}
+
+.map{
+    width: 100%;
+}
+
+.bredcrumb{
+    border-bottom: 3px solid #374151;
+}
+
+@media (max-width: 890px) { 
     .header-text{
-        font-size: .7rem !important;
+        font-size: .9rem !important;
+    }
+}
+@media (max-width: 730px) { 
+    .header-text{
+        font-size: .9rem !important;
+    }
+    .header-address{
+        font-size: 12px;
     }
  }
+
 
  @media (max-width:  1025px) { 
  }
@@ -155,6 +177,7 @@ margin: 0 27px;
         border: none;
         border-bottom: 1px solid rgb(255, 255, 255);
         border-top: 1px solid rgb(255, 255, 255);
+        padding: 10px 0;
     }
     
     .nav-expand{
@@ -168,6 +191,7 @@ margin: 0 27px;
         border-top: 1px solid rgb(255, 255, 255);
         display: flex;
         justify-content: center;
+        padding: 10px 0;
     }
 
     .nav-expand a{
@@ -194,4 +218,10 @@ margin: 0 27px;
 
 }
 
- 
+@media (max-width:  670px) {
+  .header{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
