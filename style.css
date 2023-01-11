@@ -80,6 +80,20 @@ margin: 0 27px;
     overflow: hidden; 
 }
 
+.service-list > ul{
+    width: 40%;
+}
+
+.service-list li{
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.service-list li:hover{
+    color: #0369A1;
+    text-decoration: underline;
+}
+
 @media (max-width: 1450px) { 
     .header-text{
         display: none;
