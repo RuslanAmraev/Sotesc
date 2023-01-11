@@ -57,9 +57,8 @@
                     <img class="slick-slide" src="./img/Партнеры/06.png" alt="">
                     <img class="slick-slide" src="./img/Партнеры/07.png" alt="">
                 </div>
-            
+            </div>
         </div>
-</div>
     </main>
     <script src="jquery.js"></script>
     <script src="./slick.min.js"></script>
