@@ -9,7 +9,7 @@ $('.multiple-items').slick({
 
   $('.vertical-multiple-items').slick({
     infinite: true,
-    slidesToShow: 1,
+    slidesToShow: 2,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 2500,
@@ -21,6 +21,11 @@ $('.multiple-items').slick({
       $('.multiple-items').slick('slickSetOption', 'slidesToShow', 3)
     }else{
       $('.multiple-items').slick('slickSetOption', 'slidesToShow', 4)
+    }
+    if(window.innerWidth <= 425){
+      $('.vertical-multiple-items').slick('slickSetOption', 'slidesToShow', 1)
+    }else{
+      $('.vertical-multiple-items').slick('slickSetOption', 'slidesToShow', 2)
     }
   }, false);
 

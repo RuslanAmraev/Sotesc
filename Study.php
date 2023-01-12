@@ -24,19 +24,28 @@
             <p> Мы проводим обучение должностных лиц и специалистов предприятий, учреждений и организаций по вопросам промышленной безопасности и охраны труда.
                 <div class="mt-2">
                     <p>В учебном процессе мы применяем различные формы занятий: </p>
-                    <ul class="study-type mt-2 flex flex-wrap">
-                        <div>
-                            <li>- очное</li>
-                            <li>- дистанционное-онлайн обучение</li>
-                        </div>
-                        <div class="ml-12">
-                            <li>- лекции</li>
-                            <li>- семинары</li>
-                            <li>- практические занятия</li>
-                        </div>
-                    </ul>
                 </div>
             </p>
+        </div>
+        <div>
+            <div class="flex justify-between flex-wrap">
+                <div class="advantages-block">
+                    <img src="./img/tutor-icon.svg" alt="lesson">
+                    <p>Очная форма обучения</p>
+                </div>
+                <div class="advantages-block">
+                    <img src="./img/online.svg" alt="online lessons">
+                    <p>Дистанционное-онлайн обучение</p>
+                </div>
+                <div class="advantages-block">
+                    <img src="./img/lecture.svg" alt="lecture">
+                    <p>Семинары</p>
+                </div>
+                <div class="advantages-block">
+                    <img src="./img/services-icon.svg" alt="practice-lesson">
+                    <p>Практические занятия</p>
+                </div>
+            </div>
         </div>
         <!-- blocks -->
         <div class="flex w-3/5 mx-auto">

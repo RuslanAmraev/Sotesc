@@ -2,10 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+
 *{
     font-family: "Roboto-Regular";
 }
-  
+ 
+
+.contactButton{
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.contactButton:hover{
+    background-color: #54cc6276;
+}
+
+.contactButton-img{
+    height: 80px;
+    width: 80px;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+
 .hover-underline-animation::after {
 content: '';
 position: absolute;
@@ -43,9 +66,8 @@ transform-origin: center right left;
     -webkit-clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
     clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
     background-color: #374151;
-    display: flex;
     color: #fff;
-    width: 200px;
+    max-width: 250px;
     padding: 10px 30px;
     margin: 40px 0 20px 0;
     font-weight: bold;
@@ -72,12 +94,12 @@ margin: 0 27px;
 }
 
 .slider-wrap{
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
 }
 
 .vertical-slider-wrap{
-    width: 50%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -162,6 +184,11 @@ margin: 0 27px;
     border-radius: 5%;
 }
 
+.address-phone:hover{
+    color: #0369A1;
+    text-decoration: underline;
+}
+
 .advantages-block{
     display: flex;
     flex-direction: column;
@@ -171,7 +198,7 @@ margin: 0 27px;
     font-weight: bold;
     color: #fff;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 10px;
     text-align: center;
     margin: 5px;
@@ -198,6 +225,9 @@ margin: 0 27px;
 
 
  @media (max-width:  1025px) { 
+    .vertical-slider-wrap{
+        width: 80%;
+    }
  }
 
  @media (max-width: 770px){
@@ -280,7 +310,12 @@ margin: 0 27px;
     }
 
     .slider-wrap{
-        width: 80%;
+        width: 90%;
+    }
+
+    .contactButton-img{
+        width: 50px;
+        height: 50px;
     }
 }
 
