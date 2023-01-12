@@ -29,7 +29,7 @@
                 <h3 class="text-lg title-sign">Работа с нами это :</h3>
             </div>
             <div class="flex justify-between flex-wrap">
-            <div class="advantages-block">
+                <div class="advantages-block">
                     <img src="./img/experience-expert-icon.svg" alt="documents">
                     <p>Большой опыт работы с 2013 года</p>
                 </div>
@@ -41,7 +41,6 @@
                     <img src="./img/binder-file-icon.svg" alt="documents">
                     <p>Готовим полный пакет документов</p>
                 </div>
-                <div class="advantages-block">
                 <div class="advantages-block">
                     <img src="./img/payday-icon.svg" alt="fast cheap">
                     <p>Выгодные цены и сроки</p>
