@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow"/>
     <meta name="keywords" content="обучение по промышленной безопасности">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Sotesc Обучение</title>
     <link href="./output.css" rel="stylesheet">
 </head>
@@ -23,7 +24,7 @@
             <p> Мы проводим обучение должностных лиц и специалистов предприятий, учреждений и организаций по вопросам промышленной безопасности и охраны труда.
                 <div class="mt-2">
                     <p>В учебном процессе мы применяем различные формы занятий: </p>
-                    <ul class="mt-2 flex flex-wrap">
+                    <ul class="study-type mt-2 flex flex-wrap">
                         <div>
                             <li>- очное</li>
                             <li>- дистанционное-онлайн обучение</li>

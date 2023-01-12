@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow"/>
     <meta name="keywords" content="обучение по промышленной безопасности">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Sotesc</title>
     <!-- <link href="./style.css" rel="stylesheet"> -->
     <link href="./output.css" rel="stylesheet">
@@ -56,6 +57,19 @@
                     <img class="slick-slide" src="./img/Партнеры/04.png" alt="">
                     <img class="slick-slide" src="./img/Партнеры/06.png" alt="">
                     <img class="slick-slide" src="./img/Партнеры/07.png" alt="">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div>
+                <h3 class="text-lg title-sign">Отзывы</h3>
+            </div>
+            <div class="vertical-slider-wrap">
+                <div class="vertical-multiple-items">
+                    <img class="slick-slide" src="./img/Отзывы/01.jpg" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/02.jpg" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/03.jpg" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/04.jpg" alt="">
                 </div>
             </div>
         </div>
