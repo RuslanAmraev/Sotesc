@@ -62,7 +62,7 @@
         </div>
         <div>
             <div>
-                <h3 class="text-lg title-sign">Отзывы</h3>
+                <h3 class="text-lg title-sign">Благодарности</h3>
             </div>
             <div class="vertical-slider-wrap">
                 <div class="vertical-multiple-items">

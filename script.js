@@ -1,6 +1,6 @@
 $('.multiple-items').slick({
     infinite: true,
-    slidesToShow: 5,
+    slidesToShow: 4,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 1500,
@@ -16,6 +16,13 @@ $('.multiple-items').slick({
     zIndex: 2
   });
 
+  window.addEventListener(`resize`, event => {
+    if(window.innerWidth <= 425){
+      $('.multiple-items').slick('slickSetOption', 'slidesToShow', 3)
+    }else{
+      $('.multiple-items').slick('slickSetOption', 'slidesToShow', 4)
+    }
+  }, false);
 
   // $('.multiple-items').on('touchstart', e => {
   //   $('.multiple-items').slick('slickPlay');
