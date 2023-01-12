@@ -28,7 +28,7 @@
             <div>
                 <h3 class="text-lg title-sign">Работа с нами это :</h3>
             </div>
-            <div class="flex justify-between">
+            <div class="flex justify-between flex-wrap">
             <div class="advantages-block">
                     <img src="./img/experience-expert-icon.svg" alt="documents">
                     <p>Большой опыт работы с 2013 года</p>
