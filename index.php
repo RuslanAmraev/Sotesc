@@ -51,12 +51,12 @@
             </div>
             <div class="slider-wrap">
                 <div class="multiple-items">
-                    <img class="slick-slide" src="./img/Партнеры/01.png" alt="">
-                    <img class="slick-slide" src="./img/Партнеры/02.png" alt="">
-                    <img class="slick-slide" src="./img/Партнеры/03.png" alt="">
-                    <img class="slick-slide" src="./img/Партнеры/04.png" alt="">
-                    <img class="slick-slide" src="./img/Партнеры/06.png" alt="">
-                    <img class="slick-slide" src="./img/Партнеры/07.png" alt="">
+                    <img class="slick-slide" src="./img/Партнеры/01.webp" alt="">
+                    <img class="slick-slide" src="./img/Партнеры/02.webp" alt="">
+                    <img class="slick-slide" src="./img/Партнеры/03.webp" alt="">
+                    <img class="slick-slide" src="./img/Партнеры/04.webp" alt="">
+                    <img class="slick-slide" src="./img/Партнеры/06.webp" alt="">
+                    <img class="slick-slide" src="./img/Партнеры/07.webp" alt="">
                 </div>
             </div>
         </div>
@@ -66,10 +66,10 @@
             </div>
             <div class="vertical-slider-wrap">
                 <div class="vertical-multiple-items">
-                    <img class="slick-slide" src="./img/Отзывы/01.jpg" alt="">
-                    <img class="slick-slide" src="./img/Отзывы/02.jpg" alt="">
-                    <img class="slick-slide" src="./img/Отзывы/03.jpg" alt="">
-                    <img class="slick-slide" src="./img/Отзывы/04.jpg" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/Без-имени-1_0000_04.webp" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/Без-имени-1_0001_03.webp" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/Без-имени-1_0002_02.webp" alt="">
+                    <img class="slick-slide" src="./img/Отзывы/Без-имени-1_0003_01.webp" alt="">
                 </div>
             </div>
         </div>

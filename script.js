@@ -22,7 +22,7 @@ $('.multiple-items').slick({
     }else{
       $('.multiple-items').slick('slickSetOption', 'slidesToShow', 4)
     }
-    if(window.innerWidth <= 425){
+    if(window.innerWidth <= 769){
       $('.vertical-multiple-items').slick('slickSetOption', 'slidesToShow', 1)
     }else{
       $('.vertical-multiple-items').slick('slickSetOption', 'slidesToShow', 2)

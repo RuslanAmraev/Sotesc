@@ -8,17 +8,53 @@
 }
  
 
+.contactButton-small{
+    display: none;
+    position: fixed;
+    width: 40px;
+    right: 0;
+    bottom: 5%;
+    background-color: #036AA2;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px 0   0 10px;
+    cursor: pointer;
+    writing-mode: vertical-rl;
+    padding: 5px 0;
+    align-items: center;
+    transition: 0.1s ease-in-out;
+}
+
+.contactButton-small-text{
+    margin-right: 10px;
+    font-size: 18px;
+    transition: 0.1s ease-in-out;
+}
+
+.contactButton-small:hover{
+    width: 60px;
+}
+
+.contactButton-small:hover .contactButton-small-text{
+    margin-right: 30px;
+}
+
+
 .contactButton{
     position: fixed;
     right: 40px;
     bottom: 40px;
     border-radius: 50%;
     cursor: pointer;
-    padding: 5px;
     -webkit-transform: translateZ(0);
+    z-index: 100;
+    transition: 0.1s ease-in-out;
+    color: #374151;
+    text-align: center;
+    align-items: center;
 }
 
-.contactButton:hover{
+.contactButton:hover .contactButton-img{
     background-color: #54cc6276;
 }
 
@@ -27,6 +63,9 @@
     width: 80px;
     user-select: none;
     -webkit-user-drag: none;
+    margin: 0 auto;
+    border-radius: 50%;
+    padding: 5px;
 }
 
 
@@ -151,12 +190,18 @@ margin: 0 27px;
     margin-right: 5px;
 }
 
+.header{
+    background: rgb(38,45,56);
+    background: linear-gradient(0deg, rgba(38,45,56,1) 0%, rgba(55,65,81,1) 45%, rgba(64,81,97,1) 71%, rgba(70,90,107,1) 94%, rgba(86,102,115,1) 100%);
+}
+
 .header-text{
     font-size: 20px;
 }
 
 .footer{
     position: relative;
+    z-index: 101;
 }
 
 .map-wrap{
@@ -224,7 +269,6 @@ margin: 0 27px;
     }
  }
 
-
  @media (max-width:  1025px) { 
     .vertical-slider-wrap{
         width: 80%;
@@ -237,6 +281,7 @@ margin: 0 27px;
     }
  }
  
+
 @media (max-width: 710px){
     .nav{
        flex-direction: column;
@@ -337,4 +382,14 @@ margin: 0 27px;
   .advantages-block{
     width: 45%;
   }
+
 }
+@media (max-width:  1439px) {
+    .contactButton{
+        display: none;
+    }
+    .contactButton-small{
+    display: block;
+    }
+  }
+  
