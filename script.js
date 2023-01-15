@@ -16,6 +16,15 @@ $('.multiple-items').slick({
     zIndex: 2
   });
 
+  $('.banners-slider').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2500,
+    zIndex: 2
+  });
+
   window.addEventListener(`resize`, event => {
     if(window.innerWidth <= 425){
       $('.multiple-items').slick('slickSetOption', 'slidesToShow', 3)

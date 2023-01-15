@@ -17,6 +17,26 @@
     <?php include './Header.html' ?>
     <main class="main global-width">
         <div>
+            <div class="banners-slider-wrap">
+                <div class="banners-slider">
+                    <a class="slick-slide">
+                        <img src="./img/Баннеры/01.jpg" alt="">
+                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                    </a>
+                    <a class="slick-slide">
+                        <img src="./img/Баннеры/02.jpg" alt="">
+                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                    </a>
+                    <a class="slick-slide">
+                        <img src="./img/Баннеры/03.jpg" alt="">
+                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                    </a>
+                    <a class="slick-slide">
+                        <img src="./img/Баннеры/04.jpg" alt="">
+                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                    </a>
+                </div>
+            </div>
             <div>
                 <h3 class="text-lg title-sign">Наши услуги</h3>
             </div>

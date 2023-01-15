@@ -1012,6 +1012,19 @@ video {
   filter: invert();
 }
 
+.slick-slide{
+  position: relative;
+}
+
+.banner-slide-link{
+  position: absolute;
+  background-color: #0369A1;
+  padding: 5px;
+  left: 0;
+  bottom: 0;
+  color: #fff;
+}
+
 @media (max-width: 890px) {
   .header-text{
     font-size: .9rem !important;
