@@ -1025,6 +1025,50 @@ video {
   color: #fff;
 }
 
+.sub-title{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.list li{
+  list-style: circle;
+  margin-left: 20px;
+}
+
+.fireSafety-img{
+  height: 180px;
+  margin-left: auto;
+  border-radius: 5px;
+}
+
+.phone-icon{
+  height: 25px;
+  width: 25px;
+  margin: 5px;
+  margin-right: 10px;
+}
+
+.wa-icon{
+  height: 35px;
+  margin-right: 10px;
+}
+
+.contacts-list{
+  width: 170px;
+}
+
+.sub-title3{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.fireSyatem-img{
+  height: 150px;
+  float: right;
+  margin: 5px;
+  border-radius: 5px;
+}
+
 @media (max-width: 890px) {
   .header-text{
     font-size: .9rem !important;
@@ -1137,8 +1181,16 @@ video {
 }
 
 @media (max-width:  426px) {
+  .header{
+    text-align: center;
+  }
+
   .header-text{
     text-align: center;
+  }
+
+  .header-info{
+    justify-content: center;
   }
 
   .title-sign{
