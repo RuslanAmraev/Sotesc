@@ -424,13 +424,6 @@ margin: 0 27px;
 }
 
 @media (max-width:  426px) {
-    .header{
-        text-align: center;
-    }
-    .header-text{
-        text-align: center;
-    }
-
     .header-info{
         justify-content: center;
     }
@@ -449,6 +442,15 @@ margin: 0 27px;
   }
 
 }
+@media (max-width:  680px) {
+    .header{
+        text-align: center;
+    }
+    .header-text{
+        text-align: center;
+    }
+  }
+
 @media (max-width:  1439px) {
     .contactButton{
         display: none;

@@ -1181,14 +1181,6 @@ video {
 }
 
 @media (max-width:  426px) {
-  .header{
-    text-align: center;
-  }
-
-  .header-text{
-    text-align: center;
-  }
-
   .header-info{
     justify-content: center;
   }
@@ -1204,6 +1196,16 @@ video {
 
   .advantages-block{
     width: 45%;
+  }
+}
+
+@media (max-width:  680px) {
+  .header{
+    text-align: center;
+  }
+
+  .header-text{
+    text-align: center;
   }
 }
 
