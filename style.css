@@ -7,7 +7,6 @@
     font-family: "Roboto-Regular";
 }
  
-
 .contactButton-small{
     display: none;
     position: fixed;
@@ -168,7 +167,7 @@ margin: 0 27px;
     position: relative;
 }
 
-.service-list > ul{
+.service-list-item{
     max-width: 500px;
     overflow: hidden;
     margin: 0 auto;
@@ -271,6 +270,11 @@ margin: 0 27px;
 .sub-title{
     font-weight: bold;
     font-size: 20px;
+}
+
+.sub-title-3{
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .list li{

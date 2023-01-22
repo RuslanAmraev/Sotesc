@@ -16,32 +16,45 @@
 <body>
     <?php include './Header.html' ?>
     <main class="main global-width">
-        <div>
-            <div class="banners-slider-wrap">
-                <div class="banners-slider">
-                    <a class="slick-slide">
-                        <img src="./img/Баннеры/01.jpg" alt="">
-                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
-                    </a>
-                    <a class="slick-slide">
-                        <img src="./img/Баннеры/02.jpg" alt="">
-                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
-                    </a>
-                    <a class="slick-slide">
-                        <img src="./img/Баннеры/03.jpg" alt="">
-                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
-                    </a>
-                    <a class="slick-slide">
-                        <img src="./img/Баннеры/04.jpg" alt="">
-                        <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
-                    </a>
-                </div>
+        <div class="banners-slider-wrap">
+            <div class="banners-slider">
+                <a class="slick-slide">
+                    <img src="./img/Баннеры/01.jpg" alt="">
+                    <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                </a>
+                <a class="slick-slide">
+                    <img src="./img/Баннеры/02.jpg" alt="">
+                    <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                </a>
+                <a class="slick-slide">
+                    <img src="./img/Баннеры/03.jpg" alt="">
+                    <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                </a>
+                <a class="slick-slide">
+                    <img src="./img/Баннеры/04.jpg" alt="">
+                    <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
+                </a>
             </div>
+        </div>
+        <div class="adv-block">
+            <div class="adv-block-item">
+                <img src="crowd-icon.svg" alt="crowd-icon">
+                <p>Всё официально</p>
+            </div>
+            <div class="adv-block-item">
+                <img src="payday-icon (1).svg" alt="payday-icon">
+                <p>Быстро и выгодно</p>
+            </div>
+            <div class="adv-block-item">
+                <img src="charter-document-icon.svg" alt="charter-document-icon">
+                <p>Мы собираем полный пакет документов</p>
+            </div>
+        </div>
             <div>
                 <h3 class="text-lg title-sign">Наши услуги</h3>
             </div>
             <div class="service-list flex justify-between">
-                <ul>
+                <div class="service-list-item">
                     <a>Промышленная безопасность</a>
                     <a>Пожарная безопасность</a>  
                     <a>Безопасность и охрана труда</a>
@@ -51,8 +64,8 @@
                     <a>Основы сейсмостойкого строительства</a>
                     <a>Общехозяйственные системы управления по охране окружающей среды и обеспечению экологической безопасности</a>
                     <a>Геодезические работы в строительстве с применением новых технологий</a>
-                </ul>
-                <ul>
+                </div>
+                <div class="service-list-item">
                     <a>Дезинфекция, дезинсекция, дератизация</a>
                     <a>Гигиеническое обучение декретированных групп населения</a>
                     <a>Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность</a>
@@ -62,7 +75,7 @@
                     <a>Аудит в области пожарной безопасности</a>
                     <a>Экспертиза безопасности зданий и сооружений</a>
                     <a>Охрана труда и ТБ (Б и ОТ)</a>
-                </ul>
+                </div>
             </div>
         </div>
         <div>

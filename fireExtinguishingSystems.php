@@ -22,7 +22,7 @@
         <!-- bredcrumb -->
         <div>
             <p>
-               
+            <h1 class="sub-title">Газовое, порошковое, водяное пожаротушение</h1>
             <div class="mt-2">
                 <h2 class="sub-title">
                     Газовое пожаротушение

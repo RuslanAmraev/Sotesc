@@ -925,7 +925,7 @@ video {
   position: relative;
 }
 
-.service-list > ul{
+.service-list-item{
   max-width: 500px;
   overflow: hidden;
   margin: 0 auto;
@@ -1028,6 +1028,11 @@ video {
 .sub-title{
   font-weight: bold;
   font-size: 20px;
+}
+
+.sub-title-3{
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .list li{
