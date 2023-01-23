@@ -222,7 +222,7 @@ margin: 0 27px;
     position: absolute;
     background-color: #374151;
     height: 200px;
-    width: 300px;
+    min-width: 300px;
     top: 50%;
     left: 10%;
     transform: translateY(-50%);
