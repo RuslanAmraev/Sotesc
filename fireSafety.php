@@ -33,7 +33,7 @@
                     <li>Нормативные акты.</li>
                 </ul>
             </div>
-            <div class="mt-2 flex flex-wrap">
+            <div class="mt-2 flex justify-between">
                 <div>
                     <h2 class="sub-title">Этапы установки Пожарной сигнализации:</h2>
                     Работа выстраивается последовательно и поэтапно:
@@ -46,7 +46,7 @@
                         <li>тестирование.</li>
                     </ul>
                 </div>
-                <img class="fireSafety-img" src="./img/ПС.jpeg" alt="Монтаж пожарной сигнализации">
+                <img class="fireSyatem-img" src="./img/ПС.jpeg" alt="Монтаж пожарной сигнализации">
             </div>
             <div class="mt-2">
                 <h2 class="sub-title">Заказать установку системы пожарной сигнализации</h2>
@@ -62,11 +62,15 @@
                     <ul class="mt-2 contacts-list">
                     <a href="tel:+77076356777" class="address-phone font-semibold flex justify-between">
                         <img class="phone-icon" src="./img/mobile-phone-icon.svg" alt="phone">
-                        +7 707 635 6777
+                        <p>
+                            +7 707 635 6777
+                        </p>
                     </a>
                     <a target="_blank" href="https://api.whatsapp.com/send/?phone=77076356777&text&type=phone_number&app_absent=0" class="address-phone font-semibold flex justify-between">
                     <img class="wa-icon" src="./img/wa-logo.webp" alt="message">
+                    <p>
                         +7 707 635 6777
+                    </p>
                     </a>
                     </ul>
                 </p>
