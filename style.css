@@ -23,6 +23,13 @@
     font-weight: normal; 
 } 
 
+@font-face {
+    font-family: "Montserrat-Light"; 
+    src: url("./Fonts/Montserrat-Light.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+
 *{
     font-family: "Montserrat-Medium";
 }
@@ -172,7 +179,10 @@ margin: 0 27px;
     text-overflow: ellipsis;
     overflow: hidden;
     z-index: 10;
-    font-family: "";
+}
+
+.sub-nav a {
+    font-family: "Montserrat-Light";
 }
 
 .nav-expand:hover .sub-nav{
@@ -367,6 +377,10 @@ margin: 0 27px;
 
 .banners-slider-wrap{
     overflow: hidden;
+}
+
+.metal-img{
+   margin-top: -16px; 
 }
 
 @media (max-width: 890px) { 
