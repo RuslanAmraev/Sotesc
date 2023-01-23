@@ -17,7 +17,7 @@
         <div class="bredcrumb flex border-b-2 border-gray-700">
             <a class="mr-2 hover:text-[#0369A1]" href="./Index.php">Главная</a>
             <p class="mr-2">/</p>
-            <h3>Обучение</h3>
+            <h1>Обучение</h1>
         </div>
         <!-- bredcrumb -->
         <div>
@@ -63,6 +63,23 @@
                 <li>Работы на высоте</li>
             </ul>
         </div>
+        <div class="mt-2">
+                <h2 class="sub-title">Пройти обучение</h2>
+                <p>
+                    Специализированная компания ТОО "Sotesc" предлагает организациям и частным лицам, пройти обучение.
+                    Получить консультацию по вопросам обучения и уточнить условия заключения договора можно по телефонам:
+                    </p>
+                <ul class="mt-2">
+                    <a href="tel:+77076356777" class="address-phone font-semibold flex">
+                        <img class="phone-icon" src="./img/mobile-phone-icon.svg" alt="phone">
+                        <p>+7 707 635 6777</p>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send/?phone=77076356777&text&type=phone_number&app_absent=0" class="address-phone font-semibold flex">
+                        <img class="wa-icon" src="./img/wa-logo.webp" alt="message">
+                        <p>+7 707 635 6777</p>
+                    </a>
+                </ul>
+            </div>
     </main>
     <?php include './Footer.html' ?>
 </body>
