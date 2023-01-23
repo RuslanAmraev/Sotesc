@@ -7,7 +7,7 @@
     <meta name="robots" content="noindex, nofollow"/>
     <meta name="keywords" content="обучение по промышленной безопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc</title>
+    <title>Sotesc Главная</title>
     <!-- <link href="./style.css" rel="stylesheet"> -->
     <link href="./output.css" rel="stylesheet">
     <link rel="stylesheet" href="slick.css">
@@ -19,19 +19,19 @@
         <div class="banners-slider-wrap">
             <div class="banners-slider">
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/01.jpg" alt="">
+                    <img src="./img/Баннеры/01 (1).webp" alt="">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/02.jpg" alt="">
+                    <img src="./img/Баннеры/02 (1).webp" alt="">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/03.jpg" alt="">
+                    <img src="./img/Баннеры/03 (1).webp" alt="">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/04.jpg" alt="">
+                    <img src="./img/Баннеры/04 (1).webp" alt="">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
             </div>
@@ -107,9 +107,9 @@
             </div>
         </div>
     </main>
+    <?php include './Footer.html' ?>
     <script src="jquery.js"></script>
     <script src="./slick.min.js"></script>
     <script src="./script.js"></script>
-    <?php include './Footer.html' ?>
 </body>
 </html>

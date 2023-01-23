@@ -2,9 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: "Montserrat-Regular"; 
+    src: url("./Fonts/Montserrat-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Montserrat-Medium"; 
+    src: url("./Fonts/Montserrat-Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Montserrat-SemiBold"; 
+    src: url("./Fonts/Montserrat-SemiBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
 
 *{
-    font-family: "Roboto-Regular";
+    font-family: "Montserrat-Medium";
+}
+
+h1,h2,h3,h4{
+    font-family: "Montserrat-SemiBold";
 }
  
 .contactButton-small{
@@ -108,19 +132,12 @@ transform-origin: center right left;
     color: #fff;
     max-width: 250px;
     padding: 10px 30px;
-    margin: 40px 0 20px 0;
+    margin: 20px 0 20px 0;
     font-weight: bold;
     line-height: 20px;
     text-align: center;
     font-size: 18px;
 }
-
-@font-face {
-    font-family: "Roboto-Regular"; 
-    src: url("./Fonts/Roboto-Regular.ttf") format("truetype"); 
-    font-style: normal; 
-    font-weight: normal; 
-} 
 
 /* the slides */
 .slick-slide {
@@ -142,6 +159,10 @@ margin: 0 27px;
     margin: 0 auto;
 }
 
+.nav{
+    font-weight: bold;
+}
+
 .sub-nav{
     display: none;
     position: absolute;
@@ -151,6 +172,7 @@ margin: 0 27px;
     text-overflow: ellipsis;
     overflow: hidden;
     z-index: 10;
+    font-family: "";
 }
 
 .nav-expand:hover .sub-nav{
@@ -302,7 +324,7 @@ margin: 0 27px;
 }
 
 .contacts-list{
-    width: 170px;
+    /* width: 100%; */
 }
 
 .sub-title3{
@@ -315,6 +337,36 @@ margin: 0 27px;
     float: right;
     margin: 5px;
     border-radius: 5px;
+}
+
+.law_box{
+    text-align: center;
+    border:solid #0369A1 5px;
+    border-radius: 15px;
+    padding: 30px 10px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.quote_box{
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+    text-align: center;
+    font-size: 17px;
+    display: flex;
+    color: #0369A1;
+    margin: 20px 0;
+}
+
+.big-quote-symbol{
+    color: #0369A1;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.banners-slider-wrap{
+    overflow: hidden;
 }
 
 @media (max-width: 890px) { 
@@ -425,7 +477,21 @@ margin: 0 27px;
         width: 50px;
         height: 50px;
     }
+
+    .header-info{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
+
+@media (max-width:  980px) {
+      .header-info{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+      }
+  }
 
 @media (max-width:  426px) {
     .header-info{

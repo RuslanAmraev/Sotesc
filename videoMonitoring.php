@@ -52,26 +52,19 @@
                     удобный сервис с гибкими тарифами на весь период действия договора;
                     проведение работ на всей территории Казахстана.
                     Получить консультацию по вопросам видеонаблюдения и уточнить условия заключения договора можно по телефонам:
-                    <ul class="mt-2 contacts-list">
-                    <a href="tel:+77076356777" class="address-phone font-semibold flex justify-between">
+                    </p>
+                <ul class="mt-2">
+                    <a href="tel:+77076356777" class="address-phone font-semibold flex">
                         <img class="phone-icon" src="./img/mobile-phone-icon.svg" alt="phone">
-                        +7 707 635 6777
+                        <p>+7 707 635 6777</p>
                     </a>
-                    <a target="_blank" href="https://api.whatsapp.com/send/?phone=77076356777&text&type=phone_number&app_absent=0" class="address-phone font-semibold flex justify-between">
-                    <img class="wa-icon" src="./img/wa-logo.webp" alt="message">
-                        +7 707 635 6777
+                    <a target="_blank" href="https://api.whatsapp.com/send/?phone=77076356777&text&type=phone_number&app_absent=0" class="address-phone font-semibold flex">
+                        <img class="wa-icon" src="./img/wa-logo.webp" alt="message">
+                        <p>+7 707 635 6777</p>
                     </a>
-                    </ul>
-                </p>
+                </ul>
             </div>
         </div>
-        <!-- blocks -->
-        <div class="flex w-3/5 mx-auto">
-            <div>
-                <img src="" alt="">
-            </div>
-        </div>
-        <!-- blocks -->
     </main>
     <?php include './Footer.html' ?>
 </body>
