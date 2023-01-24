@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="обучение по промышленной безопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Главная</title>
+    <title>TOO SOTESC — Учебный центр. Промышленная безопасность. Пожарная безопасность. Охрана труда и ТБ. Электробезопасность.</title>
     <!-- <link href="./style.css" rel="stylesheet"> -->
     <link href="./output.css" rel="stylesheet">
     <link rel="stylesheet" href="slick.css">
@@ -16,7 +16,27 @@
 <body>
     <?php include './Header.html' ?>
     <main class="main global-width">
-        <div class="banners-slider-wrap">
+        <div>
+            <div class="flex justify-between flex-wrap">
+                <div class="advantages-block-main">
+                    <img src="./img/experience-expert-icon.svg" alt="documents">
+                    <p>Большой опыт работы с 2013 года</p>
+                </div>
+                <div class="advantages-block-main">
+                    <img src="./img/6599572_certificate_certification_completion_diploma_e-learning_icon.svg" alt="documents">
+                    <p>Изготовление аттестатов в короткие сроки</p>
+                </div>
+                <div class="advantages-block-main">
+                    <img src="./img/binder-file-icon.svg" alt="documents">
+                    <p>Готовим полный пакет документов</p>
+                </div>
+                <div class="advantages-block-main">
+                    <img src="./img/payday-icon.svg" alt="fast cheap">
+                    <p>Выгодные цены и сроки</p>
+                </div>
+            </div>
+        </div>
+        <div class="banners-slider-wrap mt-2">
             <div class="banners-slider">
                 <a class="slick-slide">
                     <img src="./img/Баннеры/01(1).webp" alt="Установка видеонаблюдения">
@@ -41,6 +61,16 @@
             </div>
             <div class="service-list flex justify-between">
                 <div class="service-list-item">
+                    <a href="/deratization">Дезинфекция, дезинсекция, дератизация</a>
+                    <a href="/hygieneEducation">Гигиеническое обучение декретированных групп населения</a>
+                    <a href="/oilControl">Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность</a>
+                    <a>Техника безопасности при работе с сернистыми нефтями</a>
+                    <a href="/firstHelp">Оказание доврачебной помощи</a>
+                    <a href="/antiterror">Антитеррористическая защищенность</a>
+                    <a href="/fireSafetyAudit">Аудит в области пожарной безопасности</a>
+                    <a href="/industrialSafetyExpertise">Экспертиза безопасности зданий и сооружений</a>
+                </div>
+                <div class="service-list-item">
                     <a href="/biot">Безопасность и охрана труда</a>
                     <a href="/workAtHeight">Работа на высоте</a>
                     <a href="/cableAnalyse">Электробезопасность</a>
@@ -48,16 +78,6 @@
                     <a href="/earthshakeBuilding">Основы сейсмостойкого строительства</a>
                     <!-- <a>Общехозяйственные системы управления по охране окружающей среды и обеспечению экологической безопасности</a> -->
                     <a>Геодезические работы в строительстве с применением новых технологий</a>
-                </div>
-                <div class="service-list-item">
-                    <a href="/deratization">Дезинфекция, дезинсекция, дератизация</a>
-                    <a>Гигиеническое обучение декретированных групп населения</a>
-                    <a href="/oilControl">Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность</a>
-                    <a>Техника безопасности при работе с сернистыми нефтями</a>
-                    <a href="/firstHelp">Оказание доврачебной помощи</a>
-                    <a href="/antiterror">Антитеррористическая защищенность</a>
-                    <a href="/fireSafetyAudit">Аудит в области пожарной безопасности</a>
-                    <a href="/industrialSafetyExpertise">Экспертиза безопасности зданий и сооружений</a>
                 </div>
             </div>
         </div>

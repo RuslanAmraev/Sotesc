@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Основы сейсмостойкого строительства">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Основы сейсмостойкого строительства</title>
+    <title>Основы сейсмостойкого строительства Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

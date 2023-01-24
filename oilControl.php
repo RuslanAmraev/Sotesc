@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность</title>
+    <title>Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

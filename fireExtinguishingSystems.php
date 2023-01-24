@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Установка систем пожаротушения">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Системы пожаротушения</title>
+    <title>Установка систем пожаротушения Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

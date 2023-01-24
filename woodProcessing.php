@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Пожарная сигнализация">
+    <meta name="keywords" content="Противопожарная обработка деревянных конструкций">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Пожарная сигнализация</title>
+    <title>Противопожарная обработка деревянных конструкций Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

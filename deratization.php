@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Дезинфекция, дезинсекция, дератизация">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Дезинфекция, дезинсекция, дератизация</title>
+    <title>Дезинфекция, дезинсекция, дератизация Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

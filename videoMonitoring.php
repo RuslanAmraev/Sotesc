@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Видеонаблюдение монтаж проектирование и установка алматы">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Видеонаблюдение</title>
+    <title>Установка видеонаблюдения Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

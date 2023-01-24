@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Пожарная сигнализация">
+    <meta name="keywords" content="Техническая экспертиза кабелей и проводов">
+    <meta name="description" content="Мы проводим техническую экспертизу кабелей и проводов, измерение радиусов поворота кабельных линий, сечения токопроводящих жил, толщины изоляции, измерение сопротивления изоляции, испытание изоляции повышенным выпрямленным напряжением и др. ">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Пожарная сигнализация</title>
+    <link rel="apple-touch-icon" href="./img/logo.webp">
+    <title>Техническая экспертиза кабелей и проводов - "ТОО"Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>
@@ -17,7 +19,7 @@
         <div class="bredcrumb flex border-b-2 border-gray-700">
             <a class="mr-2 hover:text-[#0369A1]" href="/">Главная</a>
             <p class="mr-2">/</p>
-            <h1>Аудит по пожарной безопасности</h1>
+            <h1>Техническая экспертиза кабелей и проводов</h1>
         </div>
         <!-- bredcrumb -->
         <div>

@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Пожарная сигнализация">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Аудит по пожарной безопасности</title>
+    <title>Аудит по пожарной безопасности Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

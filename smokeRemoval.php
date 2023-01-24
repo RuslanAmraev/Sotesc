@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Системы дымоудаления проектирование монтаж алматы">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Дымоудаление</title>
+    <title>Системы дымоудаления Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

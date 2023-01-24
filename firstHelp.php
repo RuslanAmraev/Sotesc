@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Оказание доврачебной помощи">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Оказание доврачебной помощи</title>
+    <title>Обучение оказанию доврачебной помощи Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

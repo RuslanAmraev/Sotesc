@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Основы сейсмостойкого строительства">
+    <meta name="keywords" content="Обучение по программе Пожарно-технический минимум">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Обучение по программе Пожарно-технический минимум</title>
+    <title>Обучение по программе Пожарно-технический минимум Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

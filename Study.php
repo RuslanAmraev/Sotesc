@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="обучение по промышленной безопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <title>Sotesc Обучение</title>
+    <title>Обучение по промышленной безопасности Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>
