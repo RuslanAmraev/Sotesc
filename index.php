@@ -19,35 +19,21 @@
         <div class="banners-slider-wrap">
             <div class="banners-slider">
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/01 (1).webp" alt="">
+                    <img src="./img/Баннеры/01(1).webp" alt="Установка видеонаблюдения">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/02 (1).webp" alt="">
+                    <img src="./img/Баннеры/02(1).webp" alt="Аттестация и лицензирование рабочих мест">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/03 (1).webp" alt="">
+                    <img src="./img/Баннеры/03(1).webp" alt="Техническая экспертиза кабелей и проводов">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
                 <a class="slick-slide">
-                    <img src="./img/Баннеры/04 (1).webp" alt="">
+                    <img src="./img/Баннеры/04(1).webp" alt="Установка противопожарных систем">
                     <!-- <a class="banner-slide-link" href="">Подробнее</a> -->
                 </a>
-            </div>
-        </div>
-        <div class="adv-block">
-            <div class="adv-block-item">
-                <img src="crowd-icon.svg" alt="crowd-icon">
-                <p>Всё официально</p>
-            </div>
-            <div class="adv-block-item">
-                <img src="payday-icon (1).svg" alt="payday-icon">
-                <p>Быстро и выгодно</p>
-            </div>
-            <div class="adv-block-item">
-                <img src="charter-document-icon.svg" alt="charter-document-icon">
-                <p>Мы собираем полный пакет документов</p>
             </div>
         </div>
             <div>
