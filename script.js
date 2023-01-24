@@ -41,3 +41,4 @@ $('.multiple-items').slick({
   // $('.multiple-items').on('touchstart', e => {
   //   $('.multiple-items').slick('slickPlay');
   // });
+

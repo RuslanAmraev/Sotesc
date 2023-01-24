@@ -542,12 +542,12 @@ video {
   margin-right: auto;
 }
 
-.ml-4 {
-  margin-left: 1rem;
-}
-
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
 }
 
 .mt-1 {
@@ -761,16 +761,46 @@ video {
 
 *{
   font-family: "Montserrat-Medium";
+  font-display: swap;
 }
 
 h1,h2,h3,h4{
   font-family: "Montserrat-SemiBold";
 }
 
+.link{
+  color: #0369A1;
+  text-decoration: underline;
+}
+
+.nav-el, .nav-expand a{
+  font-family: "Montserrat-Light";
+}
+
+.text-orient-row{
+  writing-mode: horizontal-tb;
+  width: 200px;
+  height: 100%;
+  padding: 30px 0;
+  position: absolute;
+  right: 60px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.text-orient-row a:hover{
+  text-decoration: underline;
+  color: rgb(20, 8, 80);
+}
+
 .contactButton-small{
+  overflow: hidden;
   display: none;
   position: fixed;
-  width: 40px;
+  /* width: 40px; */
   right: 0;
   bottom: 5%;
   background-color: #036AA2;
@@ -782,6 +812,10 @@ h1,h2,h3,h4{
   padding: 5px 0;
   align-items: center;
   transition: 0.1s ease-in-out;
+}
+
+.contactButton-small-active{
+  width: 300px !important;
 }
 
 .contactButton-small-text{
@@ -1000,7 +1034,7 @@ h1,h2,h3,h4{
 .advantages-block{
   display: flex;
   flex-direction: column;
-  width: 250px;
+  width: 200px;
   border-radius: 20px;
   background-color: #374151;
   font-weight: bold;
