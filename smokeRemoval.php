@@ -8,6 +8,7 @@
     <meta name="keywords" content="Системы дымоудаления проектирование монтаж алматы">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Системы дымоудаления Sotesc</title>
+    <meta name="description" content="У нас вы можете заказать установку, проектирование и монтаж систем дымоудаления на ваших объектах, помещения, зданиях, и домах. Мы находимся в городе Алматы, но предоставляем услуги по всему Казахстану.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

@@ -8,6 +8,7 @@
     <meta name="keywords" content="Основы сейсмостойкого строительства">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Основы сейсмостойкого строительства Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти обучение по Основам сейсмостройкого стройтельства и получить соответствующую документацию">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

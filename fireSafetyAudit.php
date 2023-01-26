@@ -8,6 +8,7 @@
     <meta name="keywords" content="Пожарная сигнализация">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Аудит по пожарной безопасности Sotesc</title>
+    <meta name="description" content="У нас вы можете заказать аудит на соблюдение стандартов пожарной безопасности на вашем объекте, здании или помещении, а так же подготовим все необходимые отчёты и документы.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

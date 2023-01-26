@@ -8,6 +8,7 @@
     <meta name="keywords" content="Оказание доврачебной помощи">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Обучение оказанию доврачебной помощи Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти курс обучения и пройти аттестацию по оказанию доврачебной мопощи и получить соответствующую документацию.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

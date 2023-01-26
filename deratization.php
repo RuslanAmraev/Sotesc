@@ -8,6 +8,7 @@
     <meta name="keywords" content="Дезинфекция, дезинсекция, дератизация">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Дезинфекция, дезинсекция, дератизация Sotesc</title>
+    <meta name="description" content="Мы поможем вам избавиться от грызунов, насекомых, а так же провести санитарную обработку помещений, зданий и домов.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

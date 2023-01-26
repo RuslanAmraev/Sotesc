@@ -8,6 +8,7 @@
     <meta name="keywords" content="обучение по промышленной безопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Обучение по промышленной безопасности Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти обучение и аттестацию по промышленной обезопасности и получить соответствующую документацию. Мы находимся в городе Алматы, но предоставляем услуги по всему Казахстану.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Антитеррористическая защищенность">
+    <meta name="keywords" content="Антитеррористическая защищенность, антитеррор, антитеррористическая защищенность объектов">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Антитеррористическая защищенность Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти профилактику и обучение, получить документацию по Антитеррористической защищенности 'Антитеррор'.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

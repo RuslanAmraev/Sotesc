@@ -8,6 +8,7 @@
     <meta name="keywords" content="Обучение по программе Пожарно-технический минимум">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Обучение по программе Пожарно-технический минимум Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти курс обучения и пройти аттестацию по пожарно-техническому минимуму и получить соответствующую документацию.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

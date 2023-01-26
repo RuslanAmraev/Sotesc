@@ -8,6 +8,7 @@
     <meta name="keywords" content="Экспертиза промышленной безопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Экспертиза промышленной безопасности Sotesc</title>
+    <meta name="description" content="У нас вы можете заказать экспертизу промышленной безопасности, пройти аттестацию и получить соответствующую документацию. Мы находимся в городе Алматы, но предоставляем услуги по всему Казахстану.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

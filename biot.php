@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Безопасность и охрана труда">
+    <meta name="keywords" content="Безопасность и охрана труда, техника безопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Безопасность и охрана труда Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти обучение, а так же подготовить документы по безопасности и охране труда">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

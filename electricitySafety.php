@@ -8,6 +8,7 @@
     <meta name="keywords" content="Обучение специалистов по электробезопасности">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Обучение специалистов по электробезопасности Sotesc </title>
+    <meta name="description" content="У нас вы можете пройти обучение и аттестацию по электробезопасности и получить соответствующую документацию">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>

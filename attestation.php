@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="обучение по промышленной безопасности">
+    <meta name="keywords" content="аттестации рабочих мест труда, аттестация рабочих мест, условия аттестация рабочих мест">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Аттестация рабочих мест Sotesc</title>
+    <meta name="description" content="У нас вы можете пройти аттестацию рабочих мест, получить документацию.">
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>
