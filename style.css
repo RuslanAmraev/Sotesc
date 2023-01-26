@@ -101,7 +101,7 @@ h1,h2,h3,h4{
     writing-mode: vertical-rl;
     padding: 5px 0;
     align-items: center;
-    transition: 0.1s ease-in-out;
+    transition: 0.2s ease-in-out;
 }
 
 .contactButton-small-active{
@@ -111,16 +111,12 @@ h1,h2,h3,h4{
 .contactButton-small-text{
     margin-right: 10px;
     font-size: 18px;
-    transition: 0.1s ease-in-out;
 }
 
 .contactButton-small:hover{
-    width: 60px;
+    background-color: #057fc1;
 }
 
-.contactButton-small:hover .contactButton-small-text{
-    margin-right: 30px;
-}
 
 
 .contactButton{
@@ -530,6 +526,9 @@ margin: 0 27px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+  .advantages-block-main{
+    width: 48%;
   }
 }
 
