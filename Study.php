@@ -37,6 +37,11 @@
                     <li><a class="link" href="/workAtHeight">Работы на высоте</a></li>
                     <li><a class="link" href="/biot">Безопасность и Охрана труда</a></li>
                     <li><a class="link" href="/firstHelp">Оказание доврачебной помощи</a></li>
+                    <li><a class="link" href="/hygieneEducation">Гигиеническое обучение декретированных групп населения</a></li>
+                    <li><a class="link" href="/oilControl">Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность</a></li>
+                    <li><a class="link" href="/trucking">Подготовка водителей автотранспортных средств, осуществляющих перевозки опасных грузов</a></li>
+                    <li><a class="link" href="/earthshakeBuilding">Основы сейсмостойкого строительства</a></li>
+                    <li><a class="link" href="/GeodesticWorksStudy">Геодезические работы в строительстве с применением новых технологий</a></li>
                 </ul>
             </div>
             <div class="mt-2">
