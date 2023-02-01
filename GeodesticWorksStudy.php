@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Геодезические работы в строительстве с применением новых технологий">
+    <meta name="keywords" content="Геодезические работы в строительстве с применением новых технологий, обучение геодезистов.">
+    <meta name="description" content="У нас вы можете пройти обучение на геодезистов, по программе 'Геодезические работы в строительстве с применением новых технологий', после прохождения обучения мы проведем аттестацию и выдадим все необходимые документы.">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <title>Геодезические работы в строительстве с применением новых технологий Sotesc </title>
     <link href="./output.css" rel="stylesheet">
