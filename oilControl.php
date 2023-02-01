@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Управление скважиной при газонефтеводопроявлении и противофонтанная безопасность Sotesc</title>
     <meta name="description" content="У нас вы можете пройти обучение по управлению скважиной при газонефтеводопроявлении и противофонтанной безопасности, пройти аттестацию и получить соответствующую документацию. Мы находимся в городе Алматы, но предоставляем услуги по всему Казахстану.">
     <link href="./output.css" rel="stylesheet">

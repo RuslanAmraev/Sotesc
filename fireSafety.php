@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Установка пожарной сигнализации">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Установка пожарной сигнализации Sotesc</title>
     <meta name="description" content="Мы займёмся проектированием, монтажем, и документацией пожарной сигнализацией в вашем здании, помещении, доме, а так же на вашей территории.">
     <link href="./output.css" rel="stylesheet">

@@ -7,7 +7,7 @@
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Видеонаблюдение монтаж проектирование и установка алматы">
     <meta name="description" content="Мы проектируем, устанавливаем и проводим монтаж видеонаблюдения 'Под ключ', а так же расширяем уже установленные системы видеонаблюдения, и исправляем ошибки.">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Установка видеонаблюдения Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>

@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Перевозки опасных грузов">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <meta name="description" content="Мы проводим обучение водителей для перевозок опасных грузов, а так же проводит проверку знаний после успешного прохождения которой, проходящие проверку получают соответствующие подтверждающие документы.">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Перевозки опасных грузов Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>

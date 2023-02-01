@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Дезинфекция, дезинсекция, дератизация">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Дезинфекция, дезинсекция, дератизация Sotesc</title>
     <meta name="description" content="Мы поможем вам избавиться от грызунов, насекомых, а так же провести санитарную обработку помещений, зданий и домов.">
     <link href="./output.css" rel="stylesheet">

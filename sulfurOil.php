@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Техника безопасности при работе с сернистыми нефтями">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <meta name="description" content="У нас вы можете пройти обучение по технике безопасности при работе с сернистыми нефтями, а так же пройти аттестацию и получить подтверждающие документы.">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Техника безопасности при работе с сернистыми нефтями Sotesc </title>
     <link href="./output.css" rel="stylesheet">
 </head>

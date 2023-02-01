@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Обучение по программе Пожарно-технический минимум">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Обучение по программе Пожарно-технический минимум Sotesc</title>
     <meta name="description" content="У нас вы можете пройти курс обучения и пройти аттестацию по пожарно-техническому минимуму и получить соответствующую документацию.">
     <link href="./output.css" rel="stylesheet">

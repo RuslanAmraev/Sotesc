@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="обучение и аттестация по промышленной безопасности">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>TOO SOTESC — Учебный центр. Промышленная безопасность. Пожарная безопасность. Охрана труда и ТБ. Электробезопасность.</title>
     <meta name="description" content="В нашем промышленно-учебном центре вы можете получить услуги по обучению, аттестации, установке, проектированию, монтажу всего спектра промышленных отраслей. Мы находимся в городе Алматы, но оказываем услуги по всему Казахстану">
     <!-- <link href="./style.css" rel="stylesheet"> -->

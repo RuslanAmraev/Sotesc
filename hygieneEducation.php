@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Гигиеническое обучение декретированных групп населения">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Гигиеническое обучение декретированных групп населения Sotesc</title>
     <meta name="description" content="У нас вы можете пройти курс гигиенического обучения декретированных групп населения, пройти аттестацию и получить соответствующую документацию.">
     <link href="./output.css" rel="stylesheet">

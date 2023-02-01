@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Противопожарная обработка металлических конструкций">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Противопожарная обработка металлических конструкций Sotesc</title>
     <meta name="description" content="У нас вы можете заказать противопожарную обработку металлических конструкций, пройти аттестацию и получить соответствующую документацию. Мы находимся в городе Алматы, но предоставляем услуги по всему Казахстану.">
     <link href="./output.css" rel="stylesheet">
