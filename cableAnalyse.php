@@ -9,7 +9,7 @@
     <meta name="description" content="Мы проводим техническую экспертизу кабелей и проводов, измерение радиусов поворота кабельных линий, сечения токопроводящих жил, толщины изоляции, измерение сопротивления изоляции, испытание изоляции повышенным выпрямленным напряжением и др. ">
     <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <link rel="apple-touch-icon" href="./img/logo.webp">
-    <title>Техническая экспертиза кабелей и проводов - "ТОО"Sotesc</title>
+    <title>Испытания и измерения изоляции проводов и кабелей - "ТОО"Sotesc</title>
     <link href="./output.css" rel="stylesheet">
 </head>
 <body>
