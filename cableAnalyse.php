@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
-    <meta name="keywords" content="Техническая экспертиза кабелей и проводов">
-    <meta name="description" content="Мы проводим техническую экспертизу кабелей и проводов, измерение радиусов поворота кабельных линий, сечения токопроводящих жил, толщины изоляции, измерение сопротивления изоляции, испытание изоляции повышенным выпрямленным напряжением и др. ">
+    <meta name="keywords" content="Испытания и измерения изоляции проводов и кабелей">
+    <meta name="description" content="У нас вы можете пройти ипытания и измерения изоляции проводов и кабелей, измерение радиусов поворота кабельных линий, сечения токопроводящих жил, толщины изоляции, измерение сопротивления изоляции, испытание изоляции повышенным выпрямленным напряжением и др. ">
     <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <link rel="apple-touch-icon" href="./img/logo.webp">
     <title>Испытания и измерения изоляции проводов и кабелей - "ТОО"Sotesc</title>
