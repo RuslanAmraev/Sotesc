@@ -29,7 +29,7 @@
                 </div>
                 <div class="advantages-block-main">
                     <img src="./img/binder-file-icon.svg" alt="documents">
-                    <p>Готовим полный пакет документов</p>
+                    <p>Выдаем полный пакет документов</p>
                 </div>
                 <div class="advantages-block-main">
                     <img src="./img/payday-icon.svg" alt="fast cheap">
