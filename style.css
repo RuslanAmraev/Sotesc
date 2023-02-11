@@ -223,6 +223,10 @@ margin: 0 27px;
     background-color: #8a8f9440;
 }
 
+.nav-expand:hover{
+    background-color: #8a8f9440;
+}
+
 .sub-nav{
     display: none;
     position: absolute;

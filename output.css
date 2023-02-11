@@ -988,6 +988,10 @@ h1,h2,h3,h4{
   background-color: #8a8f9440;
 }
 
+.nav-expand:hover{
+  background-color: #8a8f9440;
+}
+
 .sub-nav{
   display: none;
   position: absolute;
