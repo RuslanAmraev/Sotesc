@@ -219,6 +219,10 @@ margin: 0 27px;
     font-weight: bold;
 }
 
+.nav-el:hover{
+    background-color: #8a8f9440;
+}
+
 .sub-nav{
     display: none;
     position: absolute;
