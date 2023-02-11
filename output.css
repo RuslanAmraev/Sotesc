@@ -984,6 +984,10 @@ h1,h2,h3,h4{
   font-weight: bold;
 }
 
+.nav-el:hover{
+  background-color: #8a8f9440;
+}
+
 .sub-nav{
   display: none;
   position: absolute;
@@ -1367,11 +1371,6 @@ h1,h2,h3,h4{
   .contactButton-small{
     display: block;
   }
-}
-
-.hover\:bg-gray-500:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(107 114 128 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-sky-700:hover {
