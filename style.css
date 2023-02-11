@@ -271,8 +271,8 @@ margin: 0 27px;
 }
 
 .header{
-    background: rgb(38,45,56);
-    background: linear-gradient(0deg, rgba(38,45,56,1) 0%, rgba(55,65,81,1) 45%, rgba(64,81,97,1) 71%, rgba(70,90,107,1) 94%, rgba(86,102,115,1) 100%);
+    background: rgb(23,74,120);
+    background: radial-gradient(circle, rgba(23,74,120,1) 0%, rgba(35,30,62,1) 100%);
 }
 
 .header-text{
