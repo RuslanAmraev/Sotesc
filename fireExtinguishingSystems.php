@@ -87,6 +87,14 @@
                     Мы "ТОО Sotesc" специализируемся на системах пожарной безопасности. У нас вы можете получить услугу по установке систем пожаротушения "Под ключ". А так же предлагаем вам услуги по <a class="link" href="/fireSafety.php">установке пожарной сигнализации</a>. Для получение консультации по вопросам установки систем пожаротушения и заключения договора обращайтесь по следующим контактам:
                 </p>
                 <ul class="mt-2">
+                    <a href="tel:+77473614690" class="address-phone font-semibold flex">
+                        <img class="phone-icon" src="./img/mobile-phone-icon.svg" alt="phone">
+                        <p>+7 747 361 46 90</p>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send/?phone=77473614690&text&type=phone_number&app_absent=0" class="address-phone font-semibold flex">
+                        <img class="wa-icon" src="./img/wa-logo.webp" alt="message">
+                        <p>+7 747 361 46 90</p>
+                    </a>
                     <a href="tel:+77076356777" class="address-phone font-semibold flex">
                         <img class="phone-icon" src="./img/mobile-phone-icon.svg" alt="phone">
                         <p>+7 707 635 6777</p>
