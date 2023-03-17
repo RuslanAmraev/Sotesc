@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow"/>
     <meta name="keywords" content="Установка речевого оповещения">
+    <meta name="description" content="Системы голосового оповещения являются незаменимым элементом безопасности в больших помещениях, таких как офисы, торговые центры, аэропорты и другие. Мы предлагаем профессиональную установку систем голосового оповещения любой сложности и масштаба. Обратитесь к нам, и мы сделаем ваше помещение более безопасным и комфортным для пребывания.">
     <link rel="icon" type="image/x-icon" href="/img/logo.webp">
     <title>Установка речевого оповещения Sotesc</title>
     <link href="./output.css" rel="stylesheet">
