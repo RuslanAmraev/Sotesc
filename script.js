@@ -42,3 +42,16 @@ $('.multiple-items').slick({
   //   $('.multiple-items').slick('slickPlay');
   // });
 
+  const textElement = document.querySelector(".contactButton-label");
+  const backgroundElement = document.querySelector(".testing-contact-us-banner-shadow");
+  
+  window.addEventListener("scroll", () => {
+      const textRect = textElement.getBoundingClientRect();
+      const backgroundRect = backgroundElement.getBoundingClientRect();
+      
+      if (textRect.top < backgroundRect.bottom && textRect.bottom > backgroundRect.top) {
+          textElement.style.color = "#fff"; // Черный цвет текста на белом фоне
+      } else {
+          textElement.style.color = "#000"; // Белый цвет текста на темном фоне
+      }
+  });
